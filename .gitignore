@@ -1,4 +1,4 @@
-./Debug
+./Debug/*
 NES_Emulator.vcxproj
 NES_Emulator.vcxproj.filters
 NES_Emulator.vcxproj.user
